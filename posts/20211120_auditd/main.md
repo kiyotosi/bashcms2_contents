@@ -8,7 +8,7 @@ Copyright: (C) 2021 Toshiya Kiyokawa
 ## これは何？
 auditdの監査ログは、複数行で記録される。  
 お勉強として同一ログを一行で表示するAWKを書いてみた。  
-
+※十分にテストしていないから、バグあるかも。  
 ## Howto
     cat /var/log/audit/audit.log  | awk '
     # Change Key and Display DATE
