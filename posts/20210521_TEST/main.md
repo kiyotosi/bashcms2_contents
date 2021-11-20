@@ -1,3 +1,8 @@
+---
+Keywords: jnethack
+Copyright: (C) 2021 Toshiya Kiyokawa
+---
+
 # みんなでJNethackやろうぜ  
 
 ## これは何？
