@@ -46,10 +46,3 @@ Public NetHack server at alt.org (NAO)をJNetHackに変更してあります。
 - [paxed/dgamelaunch](https://github.com/paxed/dgamelaunch)
 - [HowTo setup dgamelaunch](http://nethackwiki.com/wiki/User:Paxed/HowTo_setup_dgamelaunch)
 
----
-Keywords: test, pandoc, markdown
-Copyright: (C) 2021 Toshiya Kiyokawa
----
-# title
-
-Write contents here.
