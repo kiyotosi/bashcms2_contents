@@ -34,8 +34,3 @@ auditdの監査ログは、複数行で記録される。
     }
     END{ printf("\n") }
     '
-
----
-Keywords: awk, auditd, auditd.log
-Copyright: (C) 2021 Toshiya Kiyokawa
----
