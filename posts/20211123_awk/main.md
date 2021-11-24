@@ -26,7 +26,8 @@ AWKを使っていて気になったことを記載していく。
 - lint機能  
     `gawk --lint`
 - デバッガ  
-    `gawk -D`  
+    `gawk -D -f xxxxx.awk`  
+    ※ デバッガは、-f指定時のみ有効  
 (参考URL)[gawk Debugger](http://nethackwiki.com/wiki/User:Paxed/HowTo_setup_dgamelaunch)  
 - 改行コードには気をつけろ!(特にWinのデータを扱う際)  
     バグが見つけられなかった時、デバッガで変数を見たら末尾に"/r"を見つけた。  
