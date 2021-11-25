@@ -1,8 +1,3 @@
----
-Keywords: audit.log, auditd, awk
-Copyright: (C) 2021 Toshiya Kiyokawa
----
-
 # 監査ログ(audit.log)で同一ログを1行で表示する
 
 ## これは何？

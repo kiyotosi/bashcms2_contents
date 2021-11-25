@@ -1,8 +1,3 @@
----
-Keywords: audit.log, auditd, awk
-Copyright: (C) 2021 Toshiya Kiyokawa
----
-
 # AWKについてのTips  
 
 ## これは何？  
