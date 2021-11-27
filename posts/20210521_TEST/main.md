@@ -45,4 +45,8 @@ Public NetHack server at alt.org (NAO)をJNetHackに変更してあります。
 - [JNetHack Project](http://jnethack.sourceforge.jp/)
 - [paxed/dgamelaunch](https://github.com/paxed/dgamelaunch)
 - [HowTo setup dgamelaunch](http://nethackwiki.com/wiki/User:Paxed/HowTo_setup_dgamelaunch)
-
+  
+---  
+Keywords: jnethack, docker, シェル芸  
+Copyright: (C) 2021 Toshiya Kiyokawa  
+---  
