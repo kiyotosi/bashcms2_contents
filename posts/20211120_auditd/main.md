@@ -1,3 +1,7 @@
+---  
+Keywords: auditd, awk, CentOS, RHEL  
+Copyright: (C) 2021 Toshiya Kiyokawa  
+---  
 # 監査ログ(audit.log)で同一ログを1行で表示する
 
 ## これは何？
@@ -30,7 +34,3 @@ auditdの監査ログは、複数行で記録される。
     END{ printf("\n") }
     '
   
----  
-Keywords: auditd, awk, CentOS, RHEL  
-Copyright: (C) 2021 Toshiya Kiyokawa  
----  

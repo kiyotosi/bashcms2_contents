@@ -1,3 +1,7 @@
+---
+Keywords: jnethack, docker, シェル芸
+Copyright: (C) 2021 Toshiya Kiyokawa
+---
 ## Publick jnethack Server
 jnethack Server 公開中
 
@@ -9,7 +13,3 @@ jnethack Server 公開中
 
 
 
----
-Keywords: jnethack, docker, シェル芸
-Copyright: (C) 2021 Toshiya Kiyokawa
----
